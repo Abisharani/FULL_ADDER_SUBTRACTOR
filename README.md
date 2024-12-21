@@ -55,7 +55,7 @@ Write the detailed procedure here
 Developed by:ABISHA RANI S
 RegisterNumber:24900748
 */
-...
+```
 i)FULL ADDER
 
 module fa(a,b,cin,sum,carry);
@@ -74,7 +74,7 @@ assign difference= ( (a ^ b)^bin);
 assign borrow= ( ( ~a & b)| ( bin & (~(a ^ b ))));
 endmodule
 
-...
+```
 
 
 
